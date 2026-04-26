@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npx tsc -b && vite build", // Fixed for Vercel deployment
+    "build": "npx tsc -b && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
