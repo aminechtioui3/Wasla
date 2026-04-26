@@ -1,0 +1,12 @@
+<svg width="1200" height="820" viewBox="0 0 1200 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="820" rx="42" fill="#FFFDF0"/>
+  <rect x="40" y="40" width="1120" height="740" rx="32" fill="#720065" fill-opacity="0.04" stroke="#720065" stroke-opacity="0.12" stroke-width="2" stroke-dasharray="12 12"/>
+  <circle cx="374" cy="370" r="132" fill="#720065" fill-opacity="0.08"/>
+  <circle cx="854" cy="370" r="132" fill="#720065" fill-opacity="0.08"/>
+  <path d="M286 486C322 430 348 410 374 410C400 410 426 430 462 486" stroke="#720065" stroke-opacity="0.22" stroke-width="18" stroke-linecap="round"/>
+  <path d="M766 486C802 430 828 410 854 410C880 410 906 430 942 486" stroke="#720065" stroke-opacity="0.22" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="374" cy="322" r="52" fill="#720065" fill-opacity="0.18"/>
+  <circle cx="854" cy="322" r="52" fill="#720065" fill-opacity="0.18"/>
+  <text x="600" y="130" fill="#4C0345" font-family="Arial, sans-serif" font-size="44" font-weight="700" text-anchor="middle">Lifestyle Photo Placeholder</text>
+  <text x="600" y="686" fill="#4C0345" fill-opacity="0.74" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">Swap in creator portraits, merchant photography, or local campaign moments</text>
+</svg>
