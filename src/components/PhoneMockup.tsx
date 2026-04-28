@@ -65,13 +65,13 @@ const PhoneMockup = () => {
                 <p className="text-3xl font-bold text-plum">{heroPreview.matchScore}</p>
                 <p className="mt-2 text-xs text-plum/60">Top fit based on niche, format, and campaign goals.</p>
               </div>
-              <div className="rounded-[22px] border border-white/10 bg-cream/75 p-4 shadow-soft">
+              <div className="rounded-[22px] border border-white/10 bg-cream/80 p-4 shadow-soft">
                 <div className="mb-3 flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.16em] text-purple">
                   <Shield className="h-4 w-4" />
                   Payment
                 </div>
                 <p className="text-lg font-bold text-plum">{heroPreview.paymentStatus}</p>
-                <p className="mt-2 text-xs text-plum/60">Draft approved, final payout ready after delivery.</p>
+                <p className="mt-2 text-xs text-plum/80">Draft approved, final payout ready after delivery.</p>
               </div>
             </div>
 

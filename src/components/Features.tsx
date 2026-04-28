@@ -14,7 +14,7 @@ const Features = () => {
               <h2 className="text-3xl font-bold text-white sm:text-4xl">
                 The product details that reduce trust friction.
               </h2>
-              <p className="text-base text-white/72">
+              <p className="text-base text-white/90">
                 Wasla is deliberately structured around the moments that usually slow down creator
                 campaigns: selection, approvals, communication, and payout clarity.
               </p>
@@ -37,7 +37,7 @@ const Features = () => {
                         <Icon className="h-5 w-5" />
                       </div>
                       <h3 className="text-lg font-bold text-white">{item.title}</h3>
-                      <p className="mt-2 text-sm text-white/72">{item.description}</p>
+                      <p className="mt-2 text-sm text-white/90">{item.description}</p>
                     </motion.div>
                   );
                 })}
